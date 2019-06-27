@@ -1,7 +1,7 @@
 {
-  "name": "verkada",
+  "name": "think-ministry",
   "version": "1.0.0",
-  "description": "verkada coding challenge",
+  "description": "think ministry webix events playground",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -12,10 +12,13 @@
   "author": "davidgumzchoi",
   "license": "ISC",
   "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
     "next": "^8.1.0",
+    "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "styled-components": "^4.2.0"
+    "styled-components": "^4.2.0",
+    "webix": "^6.3.0"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.10.0",

@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import styled, { ThemeProvider, createGlobalStyle } from 'styled-components';
+import { ThemeProvider, createGlobalStyle } from 'styled-components';
 import Header from './Header';
 import Meta from './Meta';
 import WrapperStyles from '../styles/WrapperStyles';
@@ -8,7 +8,7 @@ const theme = {
   fontFamily: '-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue',
   fontSize: '1.2rem',
   fontColor: '#444',
-  primaryColor: '#20bbf0'
+  primaryColor: '#1b88b0'
 };
 
 const GlobalStyle = createGlobalStyle`

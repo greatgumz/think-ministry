@@ -5,7 +5,10 @@ const Header = () => (
   <HeaderStyles>
     <Link href="/">
       <a>
-        <img src="https://www.verkada.com/wp-content/themes/verkada/assets/images/logo.svg" alt="Verkada Logo" />
+        <img
+          src="https://www.thinkministry.com/uploads/image/792d9394a6e940bb800a575e81803350/MPLogo_0Margin_Transparent_280wX47h_1.png"
+          alt="Think Ministry Logo"
+        />
       </a>
     </Link>
   </HeaderStyles>
